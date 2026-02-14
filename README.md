@@ -85,7 +85,7 @@ git clone https://github.com/airockchip/rknn-llm.git
 Unzip the driver:
 
 ```bash
-tar -xvf /rknn-llm/rknpu-driver/rknpu_driver_0.9.8_20241009.tar.bz2
+tar -xvf rknn-llm/rknpu-driver/rknpu_driver_0.9.8_20241009.tar.bz2
 ```
 
 Copy the extracted driver files to the kernel source:
